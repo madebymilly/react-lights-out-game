@@ -2,6 +2,7 @@
   height: 100px;
   width: 100px;
   background-color: darkgray;
+  cursor: pointer;
 }
 
 .Cell-lit {
