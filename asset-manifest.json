@@ -1,13 +1,13 @@
 {
-  "main.css": "/react-lights-out-game/static/css/main.adeef2ce.chunk.css",
-  "main.js": "/react-lights-out-game/static/js/main.254a4472.chunk.js",
-  "main.js.map": "/react-lights-out-game/static/js/main.254a4472.chunk.js.map",
-  "static/js/1.b43a7eab.chunk.js": "/react-lights-out-game/static/js/1.b43a7eab.chunk.js",
-  "static/js/1.b43a7eab.chunk.js.map": "/react-lights-out-game/static/js/1.b43a7eab.chunk.js.map",
+  "main.css": "/react-lights-out-game/static/css/main.893a2207.chunk.css",
+  "main.js": "/react-lights-out-game/static/js/main.87d45b30.chunk.js",
+  "main.js.map": "/react-lights-out-game/static/js/main.87d45b30.chunk.js.map",
+  "static/js/1.a989bfac.chunk.js": "/react-lights-out-game/static/js/1.a989bfac.chunk.js",
+  "static/js/1.a989bfac.chunk.js.map": "/react-lights-out-game/static/js/1.a989bfac.chunk.js.map",
   "runtime~main.js": "/react-lights-out-game/static/js/runtime~main.cca055ee.js",
   "runtime~main.js.map": "/react-lights-out-game/static/js/runtime~main.cca055ee.js.map",
-  "static/css/main.adeef2ce.chunk.css.map": "/react-lights-out-game/static/css/main.adeef2ce.chunk.css.map",
+  "static/css/main.893a2207.chunk.css.map": "/react-lights-out-game/static/css/main.893a2207.chunk.css.map",
   "index.html": "/react-lights-out-game/index.html",
-  "precache-manifest.2cd65f6f5ac61036e5091939295c6966.js": "/react-lights-out-game/precache-manifest.2cd65f6f5ac61036e5091939295c6966.js",
+  "precache-manifest.7c94b04b8df00b6147e9b7bcdb33f6cb.js": "/react-lights-out-game/precache-manifest.7c94b04b8df00b6147e9b7bcdb33f6cb.js",
   "service-worker.js": "/react-lights-out-game/service-worker.js"
 }
